@@ -464,9 +464,7 @@
   </macro>
   <bibliography et-al-min="4" et-al-use-first="1" page-range-format="">
     <sort>
-      <key macro="language-sort" sort="descending"/>
-      <key macro="author-title"/>
-      <key variable="issued"/>
+      <key variable="citation-number"/>
     </sort>
     <layout locale="en" suffix=".">
       <text macro="bibliography"/>
